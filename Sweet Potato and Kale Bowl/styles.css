@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,600&display=swap');
+
+.container {
+  background-color: white;
+  border-style: outset;
+  border-color: black;
+  padding: 20px;
+  width: 500px;
+  margin: auto;
+  font-family: 'Roboto Flex', sans-serif;
+}
+.container {
+  padding-bottom: 50px;
+}
+.solo {
+  width: 500px;
+  height: 140px;
+}
+.twenty {
+  padding-bottom: 10px;
+  font-size: xx-small;
+}
+.precipe {
+  font-size: xx-small;
+}
+.krecipe {
+  font-size: xx-small;
+}

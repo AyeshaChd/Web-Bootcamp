@@ -1,0 +1,126 @@
+.inlineDisplay {
+  display: inline;
+  background-color: yellow;
+  width: 1000px;
+}
+.twitter {
+  background-color: white;
+  height: 350px;
+  width: 200px;
+  text-align: center;
+  border-style: groove;
+  border-color: black;
+  padding: 20px;
+  margin: none;
+  border-radius: 9px;
+}
+.twitter:hover {
+  background-color: #044d9c;
+  color: aliceblue;
+  border-style: hidden;
+  border-color: #044d9c;
+}
+.t-pic {
+  padding-top: 20px;
+  height: 60px;
+  width: 60px;
+}
+.t-lorum {
+  font-size: small;
+}
+.t-button {
+  border: none;
+  border-radius: 30px;
+  background-color: black;
+  color: aliceblue;
+  width: 200px;
+  height: 35px;
+}
+.t-button:hover {
+  background-color: white;
+  color: #044d9c;
+}
+/*     Cssfor instagram */
+/*  ======================================== */
+.instragram {
+  background-color: white;
+  height: 350px;
+  width: 200px;
+  text-align: center;
+  margin: none;
+  padding: 20px;
+  border-style: groove;
+  border-color: black;
+  border-radius: 9px;
+  margin-top: -395px;
+  margin-left: 300px;
+}
+.instragram:hover {
+  background-color: #cd3668;
+  color: white;
+  border-style: hidden;
+  border-color: #cd3668;
+}
+.i-pic {
+  padding-top: 20px;
+  height: 60px;
+  width: 60px;
+  color: aliceblue;
+}
+.i-lorum {
+  font-size: small;
+}
+
+.i-button {
+  border: none;
+  border-radius: 30px;
+  background-color: black;
+  color: aliceblue;
+  width: 200px;
+  height: 35px;
+}
+
+.i-button:hover {
+  background-color: aliceblue;
+  color: #cd3668;
+}
+
+/*     ================for youtube*/
+
+.youtube {
+  background-color: white;
+  height: 350px;
+  width: 200px;
+  text-align: center;
+  border-radius: 9px;
+  /* border-style: dotted; */
+  border: black solid 3px;
+  padding: 20px;
+  margin-top: -396px;
+  margin-left: 587px;
+}
+.youtube:hover {
+  color: white;
+  background-color: #ff0000;
+  border: none;
+}
+.y-pic {
+  padding-top: 20px;
+  height: 60px;
+  width: 60px;
+}
+.y-lorum {
+  font-size: small;
+}
+.y-button {
+  border: none;
+  border-radius: 30px;
+  background-color: black;
+  color: aliceblue;
+  width: 200px;
+  height: 35px;
+}
+.y-button:hover {
+  color: rgb(255, 0, 0);
+  background-color: white;
+}
